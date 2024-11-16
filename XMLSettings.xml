@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>unifi-controller-reborn</Name>
-  <Repository>11notes/unifi:7.5.187-unraid</Repository>
-  <Registry>https://github.com/pallebone/UnifiUnraidReborn/</Registry>
+  <Repository>11notes/unifi:8.6.9-unraid</Repository>
+  <Registry>https://github.com/VincentGoes/UnifiUnraid/</Registry>
   <Network>bridge</Network>
   <MyIP/>
   <Shell>bash</Shell>
